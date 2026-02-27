@@ -1,0 +1,435 @@
+:: StoryTitle
+final game
+
+
+:: StoryData
+{
+  "ifid": "E8E3742E-1137-4461-9C4D-E13FAD8846BB",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "The Beginning",
+  "zoom": 1
+}
+
+
+:: Ambush Jed {"position":"537.5,900","size":"100,100"}
+\:: Ambush Jed
+You gun down two of his men before dragging him back in chains.
+
+[[Back to town for justice|Ending: Ruthless Law]]
+
+
+:: Arrest Them {"position":"350,525","size":"100,100"}
+\:: Arrest Them
+You grab both by the collars and shove them outside. They resist. One takes a swing.
+
+[[Use your badge, calm them down|De-escalate]]
+[[Throw them in the dirt, make an example|Rough Up]]
+
+
+:: Barkeep Talk {"position":"475,775","size":"100,100"}
+\:: Barkeep Talk
+The barkeep warns: someone’s been buying land and hiring guns. Something big’s coming.
+
+[[Investigate|Town Conspiracy]]
+[[Ignore it — sounds like trouble|Ending: Oblivious]]
+
+
+:: Become Local Hero {"position":"787.5,775","size":"100,100"}
+\:: Become Local Hero
+You buy the next round. The room erupts. They love you now.
+
+[[You’ve won hearts — for now|Saloon Reward]]
+
+
+:: Confront Jed {"position":"412.5,900","size":"100,100"}
+\:: Confront Jed
+Jed walks out, hands up. "You gonna arrest me, friend? Or hear me out first?"
+
+[[Hear him out|Jed's Story]]
+[[Put him in irons, no talk|Justice First]]
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bit%203people.png" alt="Three 8-bit People" width="400">
+
+
+
+:: De-escalate {"position":"162.5,650","size":"100,100"}
+\:: De-escalate
+You flash your badge and keep your hand on your revolver. "Enough!"
+
+They back down.
+
+[[Take them to the jail|Jail Time]]
+[[Let them go with a warning|Warning Issued]]
+
+
+:: Ending: Broken Sheriff {"position":"1037.5,650","size":"100,100"}
+\:: Ending: Broken Sheriff
+You left. The town faded without you. You never went back.
+
+
+:: Ending: Complicit {"position":"850,1025","size":"100,100"}
+\:: Ending: Complicit
+You looked away. Dustrock sank deeper into the dark.
+
+
+:: Ending: Haunted Sheriff {"position":"725,900","size":"100,100"}
+\:: Ending: Haunted Sheriff
+You let your past decide your future. And it cost you.
+
+
+:: Ending: Lawful Legend {"position":"287.5,1275","size":"100,100"}
+\:: Ending: Lawful Legend
+You exposed corruption and upheld the law. Dustrock remembers your name.
+
+
+:: Ending: Lawman {"position":"475,1150","size":"100,100"}
+\:: Ending: Lawman
+You kept the law, but lost your friend. And your deputy. The badge weighs heavy.
+
+
+:: Ending: Local Favorite {"position":"100,1025","size":"100,100"}
+\:: Ending: Local Favorite
+You became more of a legend at the bar than the badge. And that was enough.
+
+
+:: Ending: Numb Enforcer {"position":"975,775","size":"100,100"}
+\:: Ending: Numb Enforcer
+You kill. You drink. You survive. But the light’s gone.
+
+
+:: Ending: Oblivious {"position":"600,1275","size":"100,100"}
+\:: Ending: Oblivious
+You never saw it coming. Dustrock was sold out beneath your nose.
+
+
+
+:: Ending: Outlaw Legend {"position":"662.5,1150","size":"100,100"}
+\:: Ending: Outlaw Legend
+You took the gold and vanished. Stories of your escape live on.
+
+
+:: Ending: Rich Outlaw {"position":"412.5,1275","size":"100,100"}
+\:: Ending: Rich Outlaw
+You got the gold. You got away. But the mirror never lies.
+
+
+:: Ending: Ruthless Law {"position":"662.5,1025","size":"100,100"}
+\:: Ending: Ruthless Law
+You did what needed doing. Justice by any means.
+
+
+:: Ending: Savior of Dustrock {"position":"787.5,1275","size":"100,100"}
+\:: Ending: Savior of Dustrock
+You shared the gold. The town thrives. You became more than a sheriff.
+
+
+:: Ending: Survivor {"position":"912.5,650","size":"100,100"}
+\:: Ending: Survivor
+You rebuilt from ashes. Dustrock’s tougher now. So are you.
+
+
+:: Hunt Jed {"position":"475,650","size":"100,100"}
+\:: Hunt Jed
+You ride out to the canyon, where Jed's gang is rumored to be hiding.
+
+[[Call him out peacefully|Confront Jed]]
+[[Sneak in and take him by surprise|Ambush Jed]]
+
+
+:: Ignore Jed {"position":"600,650","size":"100,100"}
+\:: Ignore Jed
+You toss the poster. A week later, your deputy’s shot in the street. Message sent.
+
+[[Hunt Jed out of vengeance|Hunt Jed]]
+[[Let it go and bury your regret|Ending: Haunted Sheriff]]
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bitroad.png.webp">
+
+
+
+:: Investigate Jed {"position":"725,650","size":"100,100"}
+\:: Investigate Jed
+Locals whisper the banker’s been making enemies disappear. This might go deeper.
+
+[[Break into the banker's office|Town Conspiracy]]
+[[Ask the mayor about it|Mayor Meeting]]
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bit%20wanted%20sign.webp" alt="Wanted Sign" width="300" style="display:block; margin:auto;">
+
+
+
+:: Jail Time {"position":"100,775","size":"100,100"}
+\:: Jail Time
+You toss them in the cell. They curse you under their breath.
+
+[[Return to the notice board|Notice Board]]
+[[Get a drink, you earned it|Saloon Reward]]
+
+
+:: Jed's Story {"position":"350,1025","size":"100,100"}
+\:: Jed's Story
+He claims he's been framed. The town banker hired a killer and pinned it on him.
+
+[[Believe him and investigate|Town Conspiracy]]
+[[Too late. The law is the law|Justice First]]
+
+
+:: Justice First {"position":"475,1025","size":"100,100"}
+\:: Justice First
+You take Jed in. On the ride back, his eyes stay cold.
+
+Later, you hear a bounty hunter killed your deputy. Jed’s men wanted revenge.
+
+[[You’re a legend of law, but alone|Ending: Lawman]]
+
+
+:: Let Them Fight {"position":"475,525","size":"100,100"}
+\:: Let Them Fight
+You lean against the bar, watching. Eventually one man drops the other. Bloodied but breathing.
+
+The crowd clears. No major harm done.
+
+[[Return to the office|Office Trouble]]
+[[Buy a drink and talk to the barkeep|Barkeep Talk]]
+
+
+:: Mayor Meeting {"position":"850,900","size":"100,100"}
+\:: Mayor Meeting
+The mayor warns you off — says some things are best left buried.
+
+[[Push forward anyway|Town Conspiracy]]
+[[Let it go|Ending: Complicit]]
+
+
+:: Notice Board {"position":"600,400","size":"100,100"}
+\:: Notice Board
+You scan the board. A new wanted poster’s up. The face looks familiar — too familiar. It’s *Jed "Two-Tongue" Mallory*, your childhood friend.
+
+[[Take the poster and go after Jed|Hunt Jed]]
+[[Rip it down and pretend you never saw it|Ignore Jed]]
+[[Ask around first — maybe there’s more to this|Investigate Jed]]
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bit%20badge.jpg" alt="8-bit Badge" width="300">
+
+
+
+:: Office Trouble {"position":"725,400","size":"100,100"}
+\:: Office Trouble
+You light a cigarette. Just then, a cloaked figure steps into the doorway — a traveling merchant. He sets a silver case on your desk.
+
+"One-time deal, Sheriff. No questions, just gold. Walk away rich."
+
+[[Open the case|Open Case]]
+[[Tell him to get lost|Reject Offer]]
+[[Pretend to accept, but plan to arrest him|Trap Him]]
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bit%20hat.webp" alt="Hat" width="300" style="display:block; margin:auto;">
+
+
+
+:: Open Case {"position":"725,525","size":"100,100"}
+\:: Open Case
+Inside is gold. More than you’ll ever earn. And something else: a map.
+
+[[Take the money and vanish|Ending: Outlaw Legend]]
+[[Follow the map to see where it leads|Secret Treasure]]
+
+
+:: Reject Offer {"position":"850,525","size":"100,100"}
+\:: Reject Offer
+The merchant grins. "Suit yourself."
+
+He vanishes, and that night, your office burns to the ground.
+
+[[Rebuild from the ashes|Ending: Survivor]]
+[[Leave town, nothing left to protect|Ending: Broken Sheriff]]
+
+
+:: Reputation Drops {"position":"287.5,900","size":"100,100"}
+\:: You walk to the bar to drink the day off
+
+[[Talk to the barkeep about your troubles and the town|Barkeep Talk]]
+
+
+:: Respect Through Fear {"position":"662.5,775","size":"100,100"}
+\:: Respect Through Fear
+The crowd parts. Fear has its uses. But they never look at you the same again.
+
+[[Back to duty|Notice Board]]
+
+
+:: Rough Up {"position":"287.5,650","size":"100,100"}
+\:: Rough Up
+You slam one to the ground and cuff the other hard. The crowd mutters. Not everyone likes a violent sheriff.
+
+[[Take them to the jail|Jail Time]]
+[[Walk away like nothing happened|Reputation Drops]]
+
+
+:: Saloon Brawl {"position":"475,400","size":"100,100"}
+\:: Saloon Brawl
+You push through the swinging doors. Two drunk ranch hands are throwing fists, with townsfolk cheering them on. The barkeep catches your eye — he's tired of cleaning up after these messes.
+
+ [[Break it up and arrest them both|Arrest Them]]>>
+ [[Let them fight it out — nobody’s dying|Let Them Fight]]>>
+[[Join in and teach them a lesson yourself|Throw a Punch]]>>
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bitbar.jpg" alt="Western Bar" width="400">
+
+
+
+:: Saloon Reward {"position":"100,900","size":"100,100"}
+\:: Saloon Reward
+You get a free drink and applause. Reputation rises.
+
+[[Back to duty|Notice Board]]
+[[Stay a while — you earned it|Ending: Local Favorite]]
+
+<img src="https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bitbarsign.png" alt="8-bit Bar Sign" width="300">
+
+
+
+:: Secret Treasure {"position":"787.5,1150","size":"100,100"}
+\:: Secret Treasure
+You find an old mine. Booby-trapped, cursed maybe. But real gold.
+
+[[Take what you can and leave town|Ending: Rich Outlaw]]
+[[Tell the town, share the wealth|Ending: Savior of Dustrock]]
+
+
+:: The Beginning {"position":"600,275","size":"100,100"}
+(forget-undos: (history:)'s length)
+
+
+
+\:: Start
+You’re the new sheriff in Dustrock, a town with more guns than good intentions. Folks say this place can make or break a man. You’re not here to play hero — just to do your job. Whatever that means.
+
+Morning sun glares through your office window. The deputy’s late, again. You hear shouting outside the saloon.
+
+[[Check out the saloon brawl|Saloon Brawl]]>>
+[[Head to the notice board — see if any new bounties came in|Notice Board]]>>
+[[Stay in the office and wait — trouble always finds you|Office Trouble]]>>
+
+
+
+:: Throw a Punch {"position":"600,525","size":"100,100"}
+\:: Throw a Punch
+You throw a punch that floors one of the fighters. Silence falls. Everyone stares.
+
+[[Arrest both men and walk out|Respect Through Fear]]
+[[Offer to buy the next round — win them over|Become Local Hero]]
+
+
+
+:: Town Conspiracy {"position":"350,1150","size":"100,100"}
+\:: Town Conspiracy
+You return to town quietly and find evidence of corruption.
+
+[[Expose the banker, become a local hero|Ending: Lawful Legend]]
+[[Take hush money and let it go|Ending: Rich Outlaw]]
+
+
+:: Trap Him {"position":"975,525","size":"100,100"}
+\:: Trap Him
+You arrange a sting. He pulls iron first. You shoot first.
+
+[[Dig into who sent him|Town Conspiracy]]
+[[Brush it off and pour a drink|Ending: Numb Enforcer]]
+
+
+:: Warning Issued {"position":"225,775","size":"100,100"}
+\:: Warning Issued
+You let them go. The barkeep shakes his head but says nothing.
+
+[[Return to the office|Office Trouble]]
+[[Talk to the barkeep about town gossip|Barkeep Talk]]
+
+
+:: StoryStylesheet [stylesheet]
+/* Set the full background and main body styles */
+tw-story {
+  background: transparent !important;
+}
+
+tw-passage {
+  background: rgba(255, 248, 220, 0.85) !important; /* Adjust transparency if needed */
+  color: #3e2c0d;
+}
+
+body {
+  background-color: transparent !important;
+}
+
+body {
+  background-image: url(https://raw.githubusercontent.com/braxmira/braxmira.github.io/main/graphics/8bithorse.png
+);
+  background-size: cover;
+  background-position: center;
+  font-family: Georgia, serif;
+  color: #3e2c0d;
+  text-align: center;
+  padding-top: 50px;
+}
+
+/* Style the whole passage (where text appears) */
+tw-passage {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: rgba(255, 248, 220, 0.7); /* light parchment color */
+  border-radius: 15px;
+}
+
+/* Style all the links (choices) to look like wooden swinging signs */
+tw-link {
+  display: block;
+  width: 300px;
+  margin: 40px auto;
+  padding: 15px 20px;
+  background-image: url(tw-story {
+  background: transparent !important;
+}
+
+tw-passage {
+  background: rgba(255, 248, 220, 0.85) !important; /* Adjust transparency if needed */
+  color: #3e2c0d;
+}
+
+body {
+  background-color: transparent !important;
+}
+);
+  background-position: center;
+  background-size: cover;
+  color: #3e2c0d;
+  font-weight: bold;
+  border: 4px solid #8b5a2b;
+  border-radius: 10px;
+  font-size: 1.5em;
+  text-decoration: none;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+  position: relative;
+  animation: swing 3s ease-in-out infinite;
+  transform-origin: top center;
+  cursor: pointer;
+}
+
+/* Add a little "rope" above each sign */
+tw-link::before {
+  content: '';
+  width: 2px;
+  height: 20px;
+  background: #8b5a2b;
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Define the swinging animation */
+@keyframes swing {
+  0%   { transform: rotate(1deg); }
+  50%  { transform: rotate(-1deg); }
+  100% { transform: rotate(1deg); }
+}
